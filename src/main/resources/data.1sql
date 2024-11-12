@@ -1,0 +1,6 @@
+INSERT INTO product(name, description, brand, price, category, release_date, product_Available, stock_Quantity) 
+VALUES 
+('Tata Nexon', 'The Tata Nexon is a stylish and compact SUV that offers a blend of modern design, safety features, and performance. .', 'Tata', 1999.99, 'SUV', '2023-01-01', true, 10),
+('Maruti Suzuki', 'Maruti Suzuki is one of Indias leading automobile manufacturers, known for producing affordable and reliable cars..', 'Maruti Suzuki', 1500.99, 'Sedan', '2023-02-01', true, 20),
+('Hyundai Creta', 'The Hyundai Creta is a premium compact SUV that offers a perfect combination of style, coad SUV that offers rugged performance with a modern twist. ', 'Hyundai', 2200.99, 'SUV', '2023-03-01', true, 30),
+('Mahindra Thar', 'The Mahindra Thar is an iconic off-rpabilities, and tough build, the Thar is ideal for adventure seekers and off-road enthusiasts who crave exploration without compromising on style and comfort.', 'Mahindra', 2500.99, 'Off-road', '2023-04-01', true, 15);
